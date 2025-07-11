@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+[theme]
+base="dark"
+primaryColor="#FF4B4B" # Contoh: Merah Streamlit
+backgroundColor="#0E1117" # Dark blue/black Streamlit
+secondaryBackgroundColor="#262730" # Dark gray Streamlit
+textColor="#FAFAFA" # White Streamlit
+font="sans serif"
